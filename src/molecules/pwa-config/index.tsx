@@ -7,7 +7,7 @@ export default function PWAConfig() {
 			<link rel="icon" type="image/png" sizes="48x48" href="/pwa/favicon-48x48.png" />
 			<link rel="manifest" href="/pwa/manifest.webmanifest" />
 			<meta name="mobile-web-app-capable" content="yes" />
-			<meta name="application-name" content="PWA Template" />
+			<meta name="application-name" content="Eldritch Portal" />
 			<link rel="apple-touch-icon" sizes="57x57" href="/pwa/apple-touch-icon-57x57.png" />
 			<link rel="apple-touch-icon" sizes="60x60" href="/pwa/apple-touch-icon-60x60.png" />
 			<link rel="apple-touch-icon" sizes="72x72" href="/pwa/apple-touch-icon-72x72.png" />
@@ -25,7 +25,7 @@ export default function PWAConfig() {
 			/>
 			<meta name="apple-mobile-web-app-capable" content="yes" />
 			<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-			<meta name="apple-mobile-web-app-title" content="PWA" />
+			<meta name="apple-mobile-web-app-title" content="EP" />
 			<link
 				rel="apple-touch-startup-image"
 				media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
